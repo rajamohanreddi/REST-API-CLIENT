@@ -38,3 +38,7 @@ Useful for exploring and testing APIs visually.
 Insomnia:
 Another API testing client with a clean UI.
 Supports various authentication methods and debugging features.
+
+#OUTPUT 
+DIRECTED TO URL 
+![Image](https://github.com/user-attachments/assets/8820a58e-c39d-408c-8d84-e38d60895d97)
